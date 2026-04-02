@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+environment = "prod"
+cluster_name = "devsecops-eks"
+cluster_version = "1.32"
+vpc_cidr = "192.168.0.0/16"
