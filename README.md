@@ -30,7 +30,7 @@ This project demonstrates a production-grade **DevSecOps lifecycle**, automating
 
 The application is deployed across multiple Kubernetes namespaces to ensure logical isolation. The frontend and backend pods communicate within the cluster, while the monitoring stack (Prometheus/Grafana) provides deep insights into system performance.
 
-![Solution Architecture](./architecture_diagram.jpg)
+![Solution Architecture](./architecture_diagram.png)
 
 ---
 
